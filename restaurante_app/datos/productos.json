@@ -1,0 +1,51 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Encebollado Mixto",
+        "precio": 4.5,
+        "categoria": "Plato Tradicional",
+        "stock": 10
+    },
+    {
+        "codigo": "02",
+        "nombre": "Tapao Arrecho",
+        "precio": 5.5,
+        "categoria": "Plato Tradicional",
+        "stock": 12
+    },
+    {
+        "codigo": "03",
+        "nombre": "Tigrillo",
+        "precio": 3.5,
+        "categoria": "Desayuno",
+        "stock": 15
+    },
+    {
+        "codigo": "05",
+        "nombre": "Bolon de Mariscos",
+        "precio": 7.5,
+        "categoria": "Plato tradicional",
+        "stock": 20
+    },
+    {
+        "codigo": "06",
+        "nombre": "Cuy Asado",
+        "precio": "10.50",
+        "categoria": "Plato Tradicional",
+        "stock": "16"
+    },
+    {
+        "codigo": "04",
+        "nombre": "Papipollo",
+        "precio": "$2.50",
+        "categoria": "Comida Rapida",
+        "stock": "3"
+    },
+    {
+        "codigo": "4",
+        "nombre": "Salchipapa",
+        "precio": "2.50",
+        "categoria": "Comida Rapida",
+        "stock": "16"
+    }
+]
